@@ -1,6 +1,3 @@
-Sure! If you have a website with login and registration forms made using HTML, CSS, and JavaScript, you’ll want to provide a clear and concise description for your GitHub repository. Here’s an example of how you might structure the description:
-
----
 
 ## Website with Login & Registration Form
 
